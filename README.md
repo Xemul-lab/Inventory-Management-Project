@@ -13,7 +13,7 @@
 
 ## 🚀 Установка
 1. Склонируйте репозиторий:
-   git clone https://github.com/username/sklad.git
+ 
 
 sklad/
 │
